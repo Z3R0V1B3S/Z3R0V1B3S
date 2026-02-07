@@ -1,31 +1,83 @@
-<!-- **Z3R0V1B3S/Z3R0V1B3S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-# Hey there, I'm Z3R0V1B3S 👋
+##  About Me
 
-## About Me
-I'm an easygoing individual who finds joy in fumbling around various creative pursuits. <br>
-While I may seem lazy at times, I firmly believe that every stumbling block is a stepping stone to greater things.
+I'm an easygoing and curious person who enjoys exploring different creative and technical pursuits.
+I like experimenting, learning as I go, and figuring things out step by step. I'm someone who learns best by doing — testing ideas, breaking things, fixing them, and improving over time.
 
+I see every unfinished project or mistake as part of the process. Each attempt teaches something new and helps me move forward.
 
-## Interests
-- 💻 Coding: Despite my casual approach, I find delight in coding and exploring different technologies, languages, and frameworks.
-- 🎧 Music: the art of the soul's expression.
-- 🎬 Blender: With a laid-back attitude, I experiment with Blender to create 3D characters, worlds, and immersive animations.
-- 🚀 I'm always excited about personal projects and side hustles, embracing each opportunity to grow.
+---
 
+## 💻 Development
 
-## Fun Fact
-- 😄 Most of my projects are like treasures collecting dust on a shelf, but I'm determined to change that and finish what I start.
+I enjoy exploring different technologies, languages, and frameworks, and building projects to see how things work in practice.
 
-## Connect with Me
-Let's connect and share our journey together!
+I like:
 
-[![Twitter](https://img.shields.io/badge/Twitter-Z3R0V1B3S-<COLOR>?style=flat-square&logo=twitter)](https://twitter.com/V1b3sZ3r0)
+* Building web applications and tools using **Next.js**, **React**, **Node.js**, and **TypeScript**
+* Experimenting with new frameworks, libraries, and creative solutions
+* Creating small utilities, scripts, and custom projects
+* Learning by doing and turning ideas into real, working projects
 
-<!--
-You can find the icons and colors for the badges from:
-https://shields.io/
--->
+Some of the technologies I work with include:
 
+    
 
+For me, coding is driven by curiosity — I love figuring out what's possible and bringing ideas to life.
+
+---
+
+## 🎬 Blender
+
+With Blender, I mostly experiment and explore everything it offers. I enjoy testing different creative workflows and improving step by step.
+
+This includes:
+
+* 3D modelling
+* Grease Pencil
+* Animation
+* Creating environments and scenes
+* Testing styles, ideas, and techniques
+
+For me, it's a mix of creativity and experimentation without limits.
+
+---
+
+## 🎧 Music
+
+Music is a way for me to express the soul. I create beats, mostly hip-hop, rap, and afro-inspired, using FL Studio.
+
+I enjoy:
+
+* Crafting rhythms and melodies
+* Experimenting with different styles and sounds
+* Exploring how beats and production techniques shape the music
+
+---
+
+## 🚀 Personal Projects
+
+I spend a lot of time working on personal projects, experiments, and ideas. Some are small, some grow bigger, and all of them help me learn something new.
+
+These projects allow me to:
+
+* Improve my technical skills
+* Test new ideas freely
+* Build things from scratch
+* Continuously grow over time
+
+---
+
+## 🧠 Mindset
+
+I believe progress comes from consistency, curiosity, and experimentation. Even small steps matter, and every project teaches something valuable.
+
+I'm always learning, improving, and exploring new possibilities.
+
+---
+
+## 📬 Connect with Me
+
+I'm always open to interesting ideas, projects, and collaborations.
+Feel free to explore my repositories or connect with me.
