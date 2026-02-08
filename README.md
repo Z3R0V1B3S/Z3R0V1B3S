@@ -19,53 +19,9 @@ I like:
 * Experimenting with new frameworks, libraries, and creative solutions
 * Creating small utilities, scripts, and custom projects
 * Learning by doing and turning ideas into real, working projects
-
-Some of the technologies I work with include:
-
-    
+   
 
 For me, coding is driven by curiosity — I love figuring out what's possible and bringing ideas to life.
-
----
-
-## 🎬 Blender
-
-With Blender, I mostly experiment and explore everything it offers. I enjoy testing different creative workflows and improving step by step.
-
-This includes:
-
-* 3D modelling
-* Grease Pencil
-* Animation
-* Creating environments and scenes
-* Testing styles, ideas, and techniques
-
-For me, it's a mix of creativity and experimentation without limits.
-
----
-
-## 🎧 Music
-
-Music is a way for me to express the soul. I create beats, mostly hip-hop, rap, and afro-inspired, using FL Studio.
-
-I enjoy:
-
-* Crafting rhythms and melodies
-* Experimenting with different styles and sounds
-* Exploring how beats and production techniques shape the music
-
----
-
-## 🚀 Personal Projects
-
-I spend a lot of time working on personal projects, experiments, and ideas. Some are small, some grow bigger, and all of them help me learn something new.
-
-These projects allow me to:
-
-* Improve my technical skills
-* Test new ideas freely
-* Build things from scratch
-* Continuously grow over time
 
 ---
 
